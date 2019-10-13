@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpotifyTemplate</string>
+    <string name="disc_cover">Disc Cover</string>
+    <string name="album_name">Richard Marx</string>
+    <string name="artist_name">Album, de Richard Marx, 1987</string>
+    <string name="primary_button_text">ALEATORIA</string>
+    <string name="download_text">Descargar</string>
+</resources>
